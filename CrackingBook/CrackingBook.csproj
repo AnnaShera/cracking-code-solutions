@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Chapter1\ArraysAndStrings.cs" />
+    <Compile Include="Chapter1\IsStringAPermutation.cs" />
+    <Compile Include="Chapter1\IsStringOneAwayReplaceOperation.cs" />
+    <Compile Include="Chapter1\IsStringUnique.cs" />
     <Compile Include="NotFinished\Todo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
