@@ -41,9 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chapter1\ArrayAndStrings.cs" />
     <Compile Include="Chapter1\IsStringAPermutation.cs" />
     <Compile Include="Chapter1\IsStringOneAwayReplaceOperation.cs" />
     <Compile Include="Chapter1\IsStringUnique.cs" />
+    <Compile Include="Chapter2\LinkedLists.cs" />
+    <Compile Include="Chapter2\SingleLinkedList.cs" />
+    <Compile Include="Chapter2\Node.cs" />
     <Compile Include="NotFinished\Todo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
