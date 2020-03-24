@@ -13,6 +13,7 @@ namespace CrackingBook.Chapter1
     {
         public static void DisplayChapter1Results()
         {
+            Console.WriteLine("Chapter 1 - Arrays and Strings");
             //Question 1.1 Is string Unique
             string str = "abca";
             Console.WriteLine("Chapeter1 1.1 - Is {0} unique? {1}", str, IsUnique.IsStrUnique((str)));
@@ -26,6 +27,7 @@ namespace CrackingBook.Chapter1
             string str3 = "pale";
             string str4 = "bae";
             Console.WriteLine("Chapeter1 1.5 - Is {0} one away from {1}? {2}", str3, str4, IsOneWay.OneAway(str3, str4));
+            Console.WriteLine("-----------------------------------------------------------------------------------------------------------");
         }
     }
 }
